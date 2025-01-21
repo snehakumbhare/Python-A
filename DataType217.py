@@ -5,6 +5,7 @@
 #Use zip() and sorted() to combine and sort the two lists, based on the values of indexes.
 #Use a list comprehension to get the first element of each pair from the result
 #Use the reverse parameter in sorted() to sort the dictionary in reverse order, based on the third argument
+
 # Define a function called 'sort_by_indexes' that sorts a list based on a list of corresponding indexes.
 def sort_by_indexes(lst, indexes, reverse=False):
     # Use the 'sorted' function to sort the list 'lst' based on the corresponding indexes.
