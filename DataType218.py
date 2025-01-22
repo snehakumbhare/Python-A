@@ -5,6 +5,7 @@
 #The iterator function accepts one argument (seed) and must always return a list with two elements ([value, nextSeed]) or False to terminate.
 #Use a generator function, fn_generator, that uses a while loop to call the iterator function and yield the value until it returns False.
 #Use a list comprehension to return the list that is produced by the generator, using the iterator function.
+
 # Define a function called 'unfold' that generates a list by repeatedly applying a function to a seed value.
 def unfold(fn, seed):
   # Define a generator function called 'fn_generator' that will yield values produced by the unfolding process.
