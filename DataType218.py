@@ -1,4 +1,5 @@
 #Python: Builds a list, using an iterator function and an initial seed value
+
 #Write a  Python program to build a list, using an iterator function and an initial seed value.
 
 #The iterator function accepts one argument (seed) and must always return a list with two elements ([value, nextSeed]) or False to terminate.
