@@ -1,4 +1,5 @@
 #Python: Map the values of a list to a dictionary using a function
+
 #Write a  Python program to map the values of a list to a dictionary using a function, where the key-value pairs consist of the original value as the key and the result of the function as the value.
 
 #Use map() to apply fn to each value of the list.
