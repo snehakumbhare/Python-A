@@ -4,6 +4,7 @@
 
 #Create a set, using map() to apply fn to each element in b.
 #Use a list comprehension in combination with fn on a to only keep values not contained in the previously created set, _b.
+
 # Import the 'floor' function from the 'math' module.
 from math import floor
 # Define a function called 'difference_by' that takes three arguments: 'a', 'b', and 'fn'.
