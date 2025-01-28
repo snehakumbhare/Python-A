@@ -1,4 +1,5 @@
 #Python: Get the difference between two given lists, after applying the provided function to each list element of both
+
 #Write a  Python program to get the difference between two given lists, after applying the provided function to each list element of both.
 
 #Create a set, using map() to apply fn to each element in b.
