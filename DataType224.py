@@ -5,6 +5,7 @@
 #Use functools.reduce() to iterate over the selectors list.
 
 #Apply operator.getitem() for each key in selectors, retrieving the value to be used as the iteratee for the next iteration.
+
 # Import the 'reduce' function from the 'functools' module and the 'getitem' function from the 'operator' module.
 from functools import reduce 
 from operator import getitem
