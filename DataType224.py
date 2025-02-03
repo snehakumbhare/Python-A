@@ -1,4 +1,5 @@
 #Python: Retrieve the value of the nested key indicated by the given selector list from a dictionary or list
+
 #Write a  Python program to retrieve the value of the nested key indicated by the given selector list from a dictionary or list.
 
 #Use functools.reduce() to iterate over the selectors list.
