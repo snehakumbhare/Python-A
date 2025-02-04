@@ -1,4 +1,5 @@
 #Python: Get a list of elements that exist in both lists
+
 #Write a  Python program to get a list of elements that exist in both lists, after applying the provided function to each list element of both.
 
 #Create a set, using map() to apply fn to each element in b.
