@@ -3,6 +3,7 @@
 #Write a  Python program to get a list of elements that exist in both lists, after applying the provided function to each list element of both.
 
 #Create a set, using map() to apply fn to each element in b.
+
 #Use a list comprehension in combination with fn on a to only keep values contained in both lists.
 # Import the necessary modules and functions.
 from math import floor
