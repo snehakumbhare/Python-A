@@ -1,4 +1,5 @@
 #Python: Symmetric difference between two lists, after applying the provided function to each list element of both
+
 #Write a Python program to get the symmetric difference between two lists, after applying the provided function to each list element of both.
 
 #Create a set by applying fn to each element in every list.
