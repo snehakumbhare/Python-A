@@ -5,6 +5,7 @@
 #Create a set by applying fn to each element in every list.
 
 #Use a list comprehension in combination with fn on each of them to only keep values not contained in the previously created set of the other.
+
 # Define a function 'symmetric_difference_by' that takes two lists 'a' and 'b' and a function 'fn' as input.
 def symmetric_difference_by(a, b, fn):
     # Create sets '_a' and '_b' containing the results of applying the 'fn' function to each element in 'a' and 'b'.
