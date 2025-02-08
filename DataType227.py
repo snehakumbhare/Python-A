@@ -3,6 +3,7 @@
 #Write a  Python program to get every element that exists in any of the two given lists once, after applying the provided function to each element of both.
 
 #Create a set by applying fn to each element in x.
+
 #Use a list comprehension in combination with fn on y to only keep values not contained in the previously created set, _x.
 #Finally, create a set from the previous result and x and transform it into a list.
 # Define a function 'union_by_el' that takes two lists 'x' and 'y' and a function 'fn' as input.
