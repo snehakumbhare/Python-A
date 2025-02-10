@@ -1,4 +1,5 @@
 #Python: Find the index of the first element in the given list that satisfies the provided testing function
+
 #Write a  Python program to find the index of the first element in the given list that satisfies the provided  testing function.
 
 #Use a list comprehension, enumerate() and next() to return the index of the first element in nums for which fn returns True.
