@@ -1,4 +1,5 @@
 #Python: Find the indexes of all elements in the given list that satisfy the provided testing function
+
 #Write a Python program to find the indexes of all elements in the given list that satisfy the provided testing function.
 
 # Use enumerate() and a list comprehension to return the indexes of the all element in lst for which fn returns True.
