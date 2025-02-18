@@ -1,4 +1,5 @@
 #Python: Split values into two groups, based on the result of the given filter list
+
 #Write a  Python program to split values into two groups, based on the result of the given filter list.
 
 #Use a list comprehension and zip() to add elements to groups, based on filter.
