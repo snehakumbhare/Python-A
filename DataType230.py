@@ -5,6 +5,7 @@
 #Use a list comprehension and zip() to add elements to groups, based on filter.
 
 #If filter has a truthy value for any element, add it to the first group, otherwise add it to the second group.
+
 # Define a function 'bifurcate' that takes a list 'colors' and a list of filters 'filter' as input.
 def bifurcate(colors, filter):
     # Use list comprehensions to create two lists: one with elements corresponding to True filter values and one with elements corresponding to False filter values.
