@@ -5,6 +5,7 @@
 #Use list() and range() to create a list of the desired size.
 
 #Use map() on the list and fill it with splices of the given list.
+
 #Finally, return the created list.
 # Import the 'ceil' function from the 'math' module.
 from math import ceil
