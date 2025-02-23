@@ -3,6 +3,7 @@
 #Write a  Python program to chunk a given list into smaller lists of a specified size.
 
 #Use list() and range() to create a list of the desired size.
+
 #Use map() on the list and fill it with splices of the given list.
 #Finally, return the created list.
 # Import the 'ceil' function from the 'math' module.
