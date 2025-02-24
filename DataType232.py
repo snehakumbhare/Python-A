@@ -3,6 +3,7 @@
 #Write a Python program to chunk a given list into n smaller lists.
 
 #Use math.ceil() and len() to get the size of each chunk.
+
 #Use list() and range() to create a new list of size n.
 #Use map() to map each element of the new list to a chunk the length of size.
 #If the original list can't be split evenly, the final chunk will contain the remaining elements.
