@@ -9,6 +9,7 @@
 #Use map() to map each element of the new list to a chunk the length of size.
 
 #If the original list can't be split evenly, the final chunk will contain the remaining elements.
+
 # Import the 'ceil' function from the 'math' module.
 from math import ceil
 
