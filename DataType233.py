@@ -1,4 +1,5 @@
 #Python: Convert a given number (integer) to a list of digits
+
 #Write a Python program to convert a given number (integer) to a list of digits.
 
 #Use map() combined with int on the string representation of n and return a list from the result.
