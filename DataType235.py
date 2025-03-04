@@ -1,4 +1,5 @@
 #Python: Find the items that are parity outliers in a given list
+
 #Write a Python program to find items that are parity outliers in a given list.
 
 #Use collections.Counter with a list comprehension to count even and odd values in the list.
