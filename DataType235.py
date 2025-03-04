@@ -3,6 +3,7 @@
 #Write a Python program to find items that are parity outliers in a given list.
 
 #Use collections.Counter with a list comprehension to count even and odd values in the list.
+
 #Use collections.Counter.most_common() to get the most common parity.
 #Use a list comprehension to find all elements that do not match the most common parity.
 
