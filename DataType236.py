@@ -3,6 +3,7 @@
 #Write a  Python program to convert a given list of dictionaries into a list of values corresponding to the specified key.
 
 #Use a list comprehension and dict.get() to get the value of key for each dictionary in lst.
+
 # Define a function 'pluck' that takes a list 'lst' and a key 'key' as input.
 def pluck(lst, key):
     # Use a list comprehension to iterate through the dictionaries 'x' in the list 'lst'.
