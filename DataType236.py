@@ -1,4 +1,5 @@
 #Python: Convert a list of dictionaries into a list of values corresponding to the specified key
+
 #Write a  Python program to convert a given list of dictionaries into a list of values corresponding to the specified key.
 
 #Use a list comprehension and dict.get() to get the value of key for each dictionary in lst.
