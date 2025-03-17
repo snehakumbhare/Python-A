@@ -1,4 +1,5 @@
 #Python: Calculate the average of a given list, after mapping each element to a value using the provided function
+
 #Write a Python program to calculate the average of a given list, after mapping each element to a value using the provided function.
 
 #Use map() to map each element to the value returned by fn.
