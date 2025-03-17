@@ -5,6 +5,7 @@
 #Use map() to map each element to the value returned by fn.
 
 #Use sum() to sum all of the mapped values, divide by len(lst).
+
 #Omit the last argument, fn, to use the default identity function.
 # Define a function 'average_by' that takes a list 'lst' and an optional function 'fn' as input.
 def average_by(lst, fn=lambda x: x):
