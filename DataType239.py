@@ -1,4 +1,5 @@
 #Python: Find the value of the last element in the given list that satisfies the provided testing function
+
 #Write a  Python program to find the value of the last element in the given list that satisfies the provided testing function.
 
 #Use a list comprehension and next() to return the last element in lst for which fn returns True.
