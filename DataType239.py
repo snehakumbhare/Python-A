@@ -3,6 +3,7 @@
 #Write a  Python program to find the value of the last element in the given list that satisfies the provided testing function.
 
 #Use a list comprehension and next() to return the last element in lst for which fn returns True.
+
 # Define a function 'find_last' that takes a list 'lst' and a function 'fn' as input.
 def find_last(lst, fn):
     # Use a generator expression to find the last element 'x' in the reversed list 'lst[::-1]'
