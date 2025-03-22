@@ -1,4 +1,5 @@
 #Python: Create a dictionary with the unique values of a list as keys and their frequencies as the values
+
 #Write a Python program to create a dictionary with the unique values of a given list as keys and their frequencies as values.
 
 #Use collections.defaultdict() to store the frequencies of each unique element.
