@@ -3,6 +3,7 @@
 #Write a Python program to create a dictionary with the unique values of a given list as keys and their frequencies as values.
 
 #Use collections.defaultdict() to store the frequencies of each unique element.
+
 #Use dict() to return a dictionary with the unique elements of the list as keys and their frequencies as the values.
 # Import the 'defaultdict' class from the 'collections' module to create a dictionary with default values.
 from collections import defaultdict
