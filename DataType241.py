@@ -5,6 +5,7 @@
 #Create a set from each list.
 
 #Use a list comprehension on each of them to only keep values not contained in the previously created set of the other.
+
 # Define a function 'symmetric_difference' that takes two lists, 'x' and 'y', as input.
 def symmetric_difference(x, y):
     # Create sets '_x' and '_y' from the input lists 'x' and 'y'.
