@@ -3,6 +3,7 @@
 #Write a Python program to get the symmetric difference between two iterables, without filtering out duplicate values.
 
 #Create a set from each list.
+
 #Use a list comprehension on each of them to only keep values not contained in the previously created set of the other.
 # Define a function 'symmetric_difference' that takes two lists, 'x' and 'y', as input.
 def symmetric_difference(x, y):
