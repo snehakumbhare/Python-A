@@ -1,4 +1,5 @@
 #Python: Check if a given function returns True for every element in a list
+
 #Write a Python program to check if a given function returns True for every element in a list.
 
 #Use all() in combination with map() and fn to check if fn returns True for all elements in the list.
