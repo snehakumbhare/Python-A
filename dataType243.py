@@ -6,6 +6,7 @@
 #Use range(), math.log() and math.floor() and a list comprehension to create a list of the appropriate length, applying the step for each element.
 
 #Omit the second argument, start, to use a default value of 1.
+
 #Omit the third argument, step, to use a default value of 2.
 # Import the 'floor' and 'log' functions from the 'math' module.
 from math import floor, log
