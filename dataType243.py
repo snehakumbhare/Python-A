@@ -13,6 +13,7 @@
 from math import floor, log
 
 # Define a function 'geometric_progression' that calculates a geometric progression.
+
 # It takes the ending value 'end' as a required parameter, and 'start' and 'step' as optional parameters with default values.
 def geometric_progression(end, start=1, step=2):
     # Calculate the number of terms in the geometric progression using logarithms and floor division.
