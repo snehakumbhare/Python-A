@@ -1,4 +1,5 @@
 #Python: Geometric progression
+
 #Write a Python program to initialize a list containing the numbers in the specified range where start and end are inclusive and the ratio between two terms is step. Return an error if step equals 1.
 
 #Use range(), math.log() and math.floor() and a list comprehension to create a list of the appropriate length, applying the step for each element.
