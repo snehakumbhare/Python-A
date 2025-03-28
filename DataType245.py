@@ -5,6 +5,7 @@
 #Use any() in combination with map() to check if fn returns True for any element in the list.
 
 # Define a function 'some' that takes a list 'lst' and an optional function 'fn'.
+
 # It uses the 'any' function and 'map' to check if any element in the list satisfies the given condition specified by 'fn'.
 def some(lst, fn=lambda x: x):
     return any(map(fn, lst))
