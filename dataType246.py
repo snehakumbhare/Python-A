@@ -4,6 +4,7 @@
 
 #Create a set from y.
 #Use a list comprehension on x to only keep values not contained in the previously created set, _y.
+
 # Define a function 'difference' that takes two lists 'x' and 'y'.
 # It converts 'y' into a set for faster membership checking.
 # It returns a new list containing elements that are in 'x' but not in 'y'.
