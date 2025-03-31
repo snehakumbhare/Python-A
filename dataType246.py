@@ -9,6 +9,7 @@
 # Define a function 'difference' that takes two lists 'x' and 'y'.
 
 # It converts 'y' into a set for faster membership checking.
+
 # It returns a new list containing elements that are in 'x' but not in 'y'.
 def difference(x, y):
     _y = set(y)
