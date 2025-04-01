@@ -3,6 +3,7 @@
 #Write a Python program to get the maximum value of a list, after mapping each element to a value using a given function.
 
 #Use map() with fn to map each element to a value using the provided function.
+
 #Use max() to return the maximum value.
 # Define a function 'max_by' that takes a list 'lst' and a function 'fn'.
 # It uses the 'max' function to find the maximum value in 'lst' based on the results of applying 'fn' to each element.
