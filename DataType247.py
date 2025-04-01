@@ -7,6 +7,7 @@
 #Use max() to return the maximum value.
 
 # Define a function 'max_by' that takes a list 'lst' and a function 'fn'.
+
 # It uses the 'max' function to find the maximum value in 'lst' based on the results of applying 'fn' to each element.
 def max_by(lst, fn):
     return max(map(fn, lst))
