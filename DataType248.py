@@ -1,4 +1,5 @@
 #Python: Minimum value of a list, after mapping each element to a value using a giving function
+
 #Write a Python program to get the minimum value of a list, after mapping each element to a value using a given function.
 
 #Use map() with fn to map each element to a value using the provided function.
