@@ -5,6 +5,7 @@
 #Use map() with fn to map each element to a value using the provided function.
 
 #Use min() to return the minimum value.
+
 # Define a function 'min_by' that takes a list 'lst' and a function 'fn'.
 # It uses the 'min' function to find the minimum value in 'lst' based on the results of applying 'fn' to each element.
 def min_by(lst, fn):
