@@ -7,6 +7,7 @@
 #Use sum() to return the sum of the values.
 
 # Define a function 'sum_by' that takes a list 'lst' and a function 'fn'.
+
 # It calculates the sum of the values obtained by applying 'fn' to each element in the list.
 def sum_by(lst, fn):
     return sum(map(fn, lst))
