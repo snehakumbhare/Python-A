@@ -3,6 +3,7 @@
 #Write a Python program to calculate the sum of a list, after mapping each element to a value using the provided function.
 
 #Use map() with fn to map each element to a value using the provided function.
+
 #Use sum() to return the sum of the values.
 # Define a function 'sum_by' that takes a list 'lst' and a function 'fn'.
 # It calculates the sum of the values obtained by applying 'fn' to each element in the list.
