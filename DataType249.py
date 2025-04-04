@@ -1,4 +1,5 @@
 #Python: Calculate the sum of a list, after mapping each element to a value using a given function
+
 #Write a Python program to calculate the sum of a list, after mapping each element to a value using the provided function.
 
 #Use map() with fn to map each element to a value using the provided function.
