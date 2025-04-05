@@ -3,6 +3,7 @@
 #Write a Python program that fills a list with the specified value.
 
 #Use a list comprehension and range() to generate a list of length equal to n, filled with the desired values.
+
 #Omit val to use the default value of 0.
 # Define a function 'initialize_list_with_values' that takes two arguments, 'n' and 'val'.
 # The function creates a list containing 'n' elements, each initialized with the value 'val'.
