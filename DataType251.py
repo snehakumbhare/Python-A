@@ -3,6 +3,7 @@
 #Write a Python program to get the n maximum elements from a given list of numbers.
 
 #Use sorted() to sort the list.
+
 #Use slice notation to get the specified number of elements.
 #Omit the second argument, n, to get a one-element list.
 #If n is greater than or equal to the provided list's length, then return the original list (sorted in descending order).
