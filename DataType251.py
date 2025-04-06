@@ -11,6 +11,7 @@
 #If n is greater than or equal to the provided list's length, then return the original list (sorted in descending order).
 
 # Define a function 'max_n_nums' that takes a list 'nums' and an optional parameter 'n' (defaulting to 1).
+
 # The function sorts the 'nums' list in descending order and returns the top 'n' maximum values.
 def max_n_nums(nums, n=1):
     return sorted(nums, reverse=True)[:n]
