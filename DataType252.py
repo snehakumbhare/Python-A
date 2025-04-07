@@ -7,6 +7,7 @@
 #Use slice notation to get the specified number of elements.
 
 #Omit the second argument, n, to get a one-element list.
+
 #If n is greater than or equal to the provided list's length, then return the original list (sorted in ascending order).
 # Define a function 'min_n_nums' that takes a list 'nums' and an optional parameter 'n' (defaulting to 1).
 # The function sorts the 'nums' list in ascending order and returns the top 'n' minimum values.
