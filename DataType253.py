@@ -3,6 +3,7 @@
 #Write a Python program to get the weighted average of two or more numbers.
 
 # Define a function 'weighted_average' that takes two lists 'nums' and 'weights'.
+
 # The function calculates the weighted average by summing the product of corresponding elements in 'nums' and 'weights'
 # and dividing it by the sum of 'weights'.
 def weighted_average(nums, weights):
