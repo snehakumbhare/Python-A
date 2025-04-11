@@ -1,4 +1,5 @@
 #Python: Find the powerset of a given iterable
+
 #Write a Python program to get the powerset of a given iterable.
 from itertools import chain, combinations
 
