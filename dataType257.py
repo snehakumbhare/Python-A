@@ -5,6 +5,7 @@
 #Use dict.keys() to return the keys in the given dictionary.
 
 #Return a list() of the previous result.
+
 # Define a function to extract and return a list of keys from a dictionary.
 def keys_only(students):
     return list(students.keys())  # Use the keys() method to get the keys from the dictionary.
