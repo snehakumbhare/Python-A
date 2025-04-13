@@ -1,4 +1,5 @@
 #Python: Create a given flat list of all the keys in a flat dictionary
+
 #Write a Python program to create a flat list of all the keys in a flat dictionary.
 
 #Use dict.keys() to return the keys in the given dictionary.
