@@ -1,4 +1,5 @@
 #Python: Check if a given function returns True for at least one element in the list
+
 #Write a Python program to check if a given function returns True for at least one element in the list.
 
 #Use all() and fn to check if fn returns False for all the elements in the list.
