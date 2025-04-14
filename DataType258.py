@@ -3,6 +3,7 @@
 #Write a Python program to check if a given function returns True for at least one element in the list.
 
 #Use all() and fn to check if fn returns False for all the elements in the list.
+
 # Define a function named 'test' that checks whether a condition is False for all elements in a list.
 def test(lst, fn=lambda x: x):
     return all(not fn(x) for x in lst)
