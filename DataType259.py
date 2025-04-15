@@ -3,6 +3,7 @@
 #Write a Python program to check if all the elements of a list are included in another given list.
 
 #Check if every value in lsts is contained in nums using a for loop.
+
 #Return False if any one value is not found, True otherwise.
 # Define a function named 'test_includes_all' that checks if all elements in a list are included in another list.
 def test_includes_all(nums, lsts):
