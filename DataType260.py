@@ -5,6 +5,7 @@
 #Use set() to get the unique values in nums.
 
 #Use max() to find the element that has the most appearances.
+
 # Define a function named 'most_frequent' that finds the most frequently occurring item in a list.
 def most_frequent(nums):
     return max(set(nums), key=nums.count)
