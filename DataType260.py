@@ -3,6 +3,7 @@
 #Write a Python program to get the most frequent element in a given list of numbers.
 
 #Use set() to get the unique values in nums.
+
 #Use max() to find the element that has the most appearances.
 # Define a function named 'most_frequent' that finds the most frequently occurring item in a list.
 def most_frequent(nums):
