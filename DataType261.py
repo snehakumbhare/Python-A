@@ -3,6 +3,7 @@
 #Write a Python program to move the specified number of elements to the end of the given list.
 
 #Use slice notation to get the two slices of the list and combine them before returning
+
 # Define a function named 'move_end' that moves elements of a list by a given 'offset.'
 def move_end(nums, offset):
     return nums[offset:] + nums[:offset]
