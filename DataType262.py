@@ -7,7 +7,8 @@
 # Define a function named 'move_start' that moves elements of a list by a given 'offset.'
 def move_start(nums, offset):
     return nums[-offset:] + nums[:-offset]
-    # Slices the list from the negative 'offset' position to the end (equivalent to moving elements from the end to the start) and concatenates it with the portion from the start to the negative 'offset' position.
+    # Slices the list from the negative 'offset' position to the end (equivalent to moving 
+    #elements from the end to the start) and concatenates it with the portion from the start to the negative 'offset' position.
 
 # Test the 'move_start' function with different lists and offsets.
 print(move_start([1, 2, 3, 4, 5, 6, 7, 8], 3))
