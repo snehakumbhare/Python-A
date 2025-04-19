@@ -3,6 +3,7 @@
 #Write a Python program to create a two-dimensional list from a given list of lists.
 
 #Use *nums to get the provided list as tuples.
+
 #Use zip() in combination with list() to create the transpose of the given two-dimensional list.
 # Define a function named 'two_dimensional_list' that takes a list of lists as input.
 def two_dimensional_list(nums):
