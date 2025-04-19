@@ -5,6 +5,7 @@
 #Use *nums to get the provided list as tuples.
 
 #Use zip() in combination with list() to create the transpose of the given two-dimensional list.
+
 # Define a function named 'two_dimensional_list' that takes a list of lists as input.
 def two_dimensional_list(nums):
     # Use the 'zip' function to transpose the given two-dimensional list.
