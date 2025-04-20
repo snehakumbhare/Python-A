@@ -1,4 +1,5 @@
 #Python: Generate a list, containing the Fibonacci sequence, up until the nth term
+
 #Write a Python program to generate a list containing the Fibonacci sequence, up until the nth term.
 
 #Starting with 0 and 1, use list.append() to add the sum of the last two numbers of the list to the end of the list, until the length of the list reaches n.
