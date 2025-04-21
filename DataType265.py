@@ -5,6 +5,7 @@
 #Use isinstance() to check if the given value is enumerable.
 
 #Return it by using list() or encapsulated in a list accordingly.
+
 # Define a function named 'cast_list' that converts various data types to a list.
 def cast_list(val):
     # Check if the input 'val' is an instance of a tuple, list, set, or dictionary.
