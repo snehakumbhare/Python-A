@@ -3,6 +3,7 @@
 #Write a Python program to cast the provided value as a list if it's not one.
 
 #Use isinstance() to check if the given value is enumerable.
+
 #Return it by using list() or encapsulated in a list accordingly.
 # Define a function named 'cast_list' that converts various data types to a list.
 def cast_list(val):
