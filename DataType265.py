@@ -1,4 +1,5 @@
 #Python: Casts the provided value as a list if it's not one
+
 #Write a Python program to cast the provided value as a list if it's not one.
 
 #Use isinstance() to check if the given value is enumerable.
