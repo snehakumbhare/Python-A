@@ -1,6 +1,7 @@
 #Python: Cumulative sum of the elements of a given list
 
 #Write a Python program to get the cumulative sum of the elements of a given list.
+
 # Import the 'accumulate' function from the 'itertools' module.
 from itertools import accumulate
 
