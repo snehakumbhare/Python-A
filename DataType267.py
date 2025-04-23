@@ -3,6 +3,7 @@
 #Write a Python program to get a list with n elements removed from the left and right.
 
 # Define a function named 'drop_left_right' that removes elements from the left and right of a list.
+
 # It takes a list 'a' and an optional parameter 'n' specifying the number of elements to remove from both sides.
 def drop_left_right(a, n=1):
     # Return a tuple of two lists: elements from index 'n' to the end and elements from the beginning to 'n' from the original list 'a'.
