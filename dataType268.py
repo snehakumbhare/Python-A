@@ -3,6 +3,7 @@
 #Write a Python program to get every nth element in a given list.
 
 #Use slice notation to create a new list that contains every nth element of the given list
+
 # Define a function named 'every_nth' that returns every nth element from a list.
 # It takes two parameters: 'nums' (the list) and 'nth' (the interval for selecting elements).
 def every_nth(nums, nth):
