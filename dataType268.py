@@ -5,6 +5,7 @@
 #Use slice notation to create a new list that contains every nth element of the given list
 
 # Define a function named 'every_nth' that returns every nth element from a list.
+
 # It takes two parameters: 'nums' (the list) and 'nth' (the interval for selecting elements).
 def every_nth(nums, nth):
     # Use list slicing to return elements starting from the (nth-1) index, with a step of 'nth'.
