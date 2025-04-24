@@ -1,4 +1,5 @@
 #Python: Get every nth element in a given list
+
 #Write a Python program to get every nth element in a given list.
 
 #Use slice notation to create a new list that contains every nth element of the given list
