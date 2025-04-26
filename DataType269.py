@@ -7,6 +7,7 @@
 #Return False if any such value is found, True otherwise.
 
 # Define a function named 'is_contained_in' to check if all elements in l1 are contained in l2.
+
 # It takes two parameters: 'l1' (the first list) and 'l2' (the second list).
 def is_contained_in(l1, l2):
     # Iterate through the set of unique elements in l1.
