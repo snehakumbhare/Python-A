@@ -3,6 +3,7 @@
 #Write a Python program to check if there are duplicate values in a given flat list.
 
 #Use set() on the given list to remove duplicates, compare its length with the length of the list.
+
 # Define a function named 'has_duplicates' to check if a list has duplicate values.
 # It takes a single parameter, 'lst', which is the list to be checked.
 def has_duplicates(lst):
