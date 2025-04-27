@@ -1,4 +1,5 @@
 #Python: Check if there are duplicate values in a given flat list
+
 #Write a Python program to check if there are duplicate values in a given flat list.
 
 #Use set() on the given list to remove duplicates, compare its length with the length of the list.
