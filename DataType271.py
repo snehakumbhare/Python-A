@@ -1,4 +1,5 @@
 #Python: Generates a list of numbers in the arithmetic progression within a range
+
 #Write a Python program to generate a list of numbers in the arithmetic progression starting with the given positive integer and up to the specified limit.
  # Define a function named 'arithmetic_progression' to generate a list of numbers in an arithmetic progression.
 # It takes two parameters: 'n' is the starting number, and 'x' is the end number.
