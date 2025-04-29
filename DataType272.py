@@ -1,6 +1,7 @@
 #Python Exercises: Divide a list of integers with the same sum value
 
 #Write a Python program to find an element that divides a given list of integers with the same sum value.
+
 # Define a function named 'test' that takes a list of integers 'nums' as input.
 def test(nums):
     # Iterate through the elements of 'nums' using 'enumerate'.
