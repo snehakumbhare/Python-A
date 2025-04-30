@@ -1,4 +1,5 @@
 #Python Exercises: Count lowercase letters in a list of words
+
 #Write a Python program to count the lowercase letters in a given list of words.
 # Define a function named 'test' that takes a list of words 'text' as input.
 def test(text):
