@@ -1,4 +1,3 @@
-#dismiss
 #Python Exercises: Sum of all list elements except current element
 #Write a Python program to add all elements of a list of integers except the number at index. Return the updated string.
 # Define a function named 'test' that takes a list 'nums' as input.
