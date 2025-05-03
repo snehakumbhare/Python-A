@@ -1,6 +1,7 @@
 #Python Exercises: Largest, lowest gap between sorted values of a list
 
 #Write a Python program to calculate the largest and smallest gap between sorted elements of a list of integers.
+
 # Define a function named 'test' that takes a list 'nums' as input.
 def test(nums):
     # Sort the elements in the input list 'nums' in ascending order.
