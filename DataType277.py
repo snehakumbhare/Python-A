@@ -1,6 +1,7 @@
 #Python Exercises: Sum of missing numbers of a list of integers
 
 #Write a Python program to sum the missing numbers in a given list of integers
+
 # Define a function named 'test' that takes a list 'nums' as input.
 def test(nums):
     # Find the maximum and minimum numbers in the input list 'nums'.
