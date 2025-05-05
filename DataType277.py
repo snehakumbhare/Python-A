@@ -1,4 +1,3 @@
-#dismiss
 #Python Exercises: Sum of missing numbers of a list of integers
 #Write a Python program to sum the missing numbers in a given list of integers
 # Define a function named 'test' that takes a list 'nums' as input.
