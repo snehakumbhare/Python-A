@@ -1,6 +1,7 @@
 #Python Exercises: Find all pairs of that differ by three in a list
 
-#Write a Python program that takes a list of integers and finds all pairs of integers that differ by three. Return all pairs of integers in a list.
+#Write a Python program that takes a list of integers and finds all pairs of integers that differ by three. 
+#Return all pairs of integers in a list.
 def test(nums):
     result = []
     for i, x in enumerate(sorted(nums)):
