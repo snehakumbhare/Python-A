@@ -1,4 +1,5 @@
 #Python Object-Oriented Programming: Binary search tree class with insertion and search methods
+
 #Write a Python program to create a class representing a binary search tree. Include methods for inserting and searching for elements in the binary tree.
 # Define a class called Node to represent a node in a binary search tree (BST)
 class Node:
