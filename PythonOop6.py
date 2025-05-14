@@ -2,6 +2,7 @@
 
 #Write a Python program to create a class representing a linked list data structure. 
 #Include methods for displaying linked list data, inserting and deleting nodes.
+
 # Define a class called Node to represent a node in a linked list
 class Node:
     # Initialize the Node object with data and set the next pointer to None
