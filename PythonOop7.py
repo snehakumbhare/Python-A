@@ -1,6 +1,7 @@
 #Python Object-Oriented Programming: Shopping cart class with item management and total calculation
 
 #Write a Python program to create a class representing a  shopping  cart. Include methods for adding and removing items, and calculating the total price.
+
 # Define a class called ShoppingCart to represent a shopping cart
 class ShoppingCart:
     # Initialize the shopping cart with an empty list of items
