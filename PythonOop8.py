@@ -1,6 +1,7 @@
 #Python Object-Oriented Programming: Stack class with push, pop, and display methods
 
 #Write a Python program to create a class representing a stack data structure. Include methods for pushing, popping and displaying elements.
+
 # Define a class called Stack to implement a stack data structure
 class Stack:
     # Initialize the stack with an empty list to store items
