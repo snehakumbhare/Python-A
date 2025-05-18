@@ -1,4 +1,5 @@
 #Python Object-Oriented Programming: Queue class with enqueue and dequeue methods
+
 #Write a Python program to create a class representing a queue data structure. Include methods for enqueueing and dequeueing elements.
 # Define a class called Queue to implement a queue data structure
 class Queue:
