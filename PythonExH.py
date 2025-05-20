@@ -1,6 +1,7 @@
 #Python ZeroDivisionError Exception Handling
 
 #Write a Python program to handle a ZeroDivisionError exception when dividing a number by zero.
+
 ## Define a function named divide_numbers that takes two parameters: x and y.
 def divide_numbers(x, y):
     try:
