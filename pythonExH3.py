@@ -1,4 +1,5 @@
 #Handling FileNotFoundError Exception in Python File Handling Program
+
 #Write a Python program that opens a file and handles a FileNotFoundError exception if the file does not exist.
 
 # Define a function named open_file that takes a filename as a parameter.
