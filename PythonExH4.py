@@ -1,6 +1,7 @@
 #Handling TypeError Exception in Python numeric input program
 
 #Write a Python program that prompts the user to input two numbers and raises a TypeError exception if the inputs are not numerical.
+
 # Define a function named get_numeric_input that takes a prompt as a parameter.
 def get_numeric_input(prompt):
     # Use a while loop to repeatedly prompt the user until a valid numeric input is provided.
