@@ -1,6 +1,7 @@
 #Handling IndexError Exception in Python list operation program
 
 #Write a Python program that executes an operation on a list and handles an IndexError exception if the index is out of range.
+
 # Define a function named test_index that takes 'data' and 'index' as parameters.
 def test_index(data, index):
     try:
