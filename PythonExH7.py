@@ -1,6 +1,7 @@
 #Handling ArithmeticError exception in Python division program
 
 #Write a Python program that executes division and handles an ArithmeticError exception if there is an arithmetic error.
+
 # Define a function named 'division' that takes 'dividend' and 'divisor' as parameters.
 def division(dividend, divisor):
     try:
