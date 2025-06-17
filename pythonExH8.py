@@ -1,6 +1,7 @@
 #Handling UnicodeDecodeError Exception in Python file Handling program
 
 #Write a Python program that opens a file and handles a UnicodeDecodeError exception if there is an encoding issue.
+
 # Define a function named 'open_file' that takes 'filename' as a parameter.
 def open_file(filename):
     # Prompt the user to input the file encoding (ASCII, UTF-16, UTF-8) and store it in the 'encoding' variable.
