@@ -1,6 +1,7 @@
 #Handling AttributeError Exception in Python list operation program
 
 #Write a Python program that executes a list operation and handles an AttributeError exception if the attribute does not exist.
+
 # Define a function named 'test_list_operation' that takes 'nums' as a parameter.
 def test_list_operation(nums):
     try:
