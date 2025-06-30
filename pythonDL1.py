@@ -1,4 +1,5 @@
 #Creating a Python decorator to log function arguments and return value
+
 #Write a Python program to create a decorator that logs the arguments and return value of a function.
 def decorator(func):
     def wrap(*args, **kwargs):
