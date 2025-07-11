@@ -1,4 +1,5 @@
 #Implementing a Python decorator for function results caching
+
 #Write a Python program that implements a decorator to cache the result of a function.
 def cache_result(func):
     cache = {}
