@@ -1,4 +1,5 @@
 #Implement a Decorator to Add Logging Functionality
+
 #Write a Python program that implements a decorator to add logging functionality to a function.
 def add_logging(func):
     def wrapper(*args, **kwargs):
