@@ -21,3 +21,4 @@ def divide_numbers(x, y):
 # Call the decorated function
 result = divide_numbers(7, 0)  # This will raise a ZeroDivisionError
 print("Result:", result)
+
