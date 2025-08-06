@@ -1,4 +1,5 @@
 #Implementing a Python decorator for exception handling with a default response
+
 #Write a Python program that implements a decorator to handle exceptions raised by a function and provide a default response.
 def handle_exceptions(default_response):
     def decorator(func):
@@ -21,4 +22,5 @@ def divide_numbers(x, y):
 # Call the decorated function
 result = divide_numbers(7, 0)  # This will raise a ZeroDivisionError
 print("Result:", result)
+
 
