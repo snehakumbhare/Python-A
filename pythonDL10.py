@@ -1,4 +1,5 @@
 #Implementing a Python decorator for enforcing type checking on function arguments
+
 #Write a Python program that implements a decorator to enforce type checking on the arguments of a function.
 import inspect
 def enforce_type_checking(func):
@@ -35,4 +36,5 @@ result = multiply_numbers(5, 7)  # No type errors, returns 30
 print("Result:", result)
 
 result = multiply_numbers("5", 7)  # Type error: 'x' must be of type 'int'
+
 
