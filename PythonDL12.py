@@ -1,4 +1,5 @@
 #Implementing a Python decorator for caching with expiration time in functions
+
 #Write a Python program that implements a decorator to provide caching with expiration time for a function.
 import time
 
@@ -30,3 +31,4 @@ print(calculate_multiply(23, 5))  # Calculation is performed
 print(calculate_multiply(23, 5))  # Result is retrieved from cache
 time.sleep(5)
 print(calculate_multiply(23, 5))  # Calculation is performed (cache expired)
+
