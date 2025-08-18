@@ -1,4 +1,5 @@
 #Implement a Multi-threaded Web Scraper that respects robots.txt rules
+
 import requests  # Import the requests module to handle HTTP requests
 from bs4 import BeautifulSoup  # Import BeautifulSoup for parsing HTML
 from concurrent.futures import ThreadPoolExecutor  # Import ThreadPoolExecutor for multi-threading
@@ -87,3 +88,4 @@ def main():
 
 if __name__ == '__main__':
     main()
+
