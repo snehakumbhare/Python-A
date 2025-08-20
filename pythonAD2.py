@@ -1,6 +1,7 @@
 #Create a Python Class-based Decorator to Log method execution time
 
 #Write a Python program to create a class-based decorator that logs the execution time of methods.
+
 import time  # Import the time module to measure execution time
 
 class LogExecutionTime:  # Define a class for the decorator
@@ -30,4 +31,5 @@ class ExampleClass:  # Define an example class to demonstrate the decorator
 # Instantiate the example class and call the decorated method
 example = ExampleClass()  # Create an instance of the ExampleClass
 example.example_method()  # Call the decorated method to see the execution time log
+
 
