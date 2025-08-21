@@ -1,6 +1,7 @@
 #Develop a Custom Iterator for Tree data structures in Python
 
 #Write a Python program to develop a custom iterator that iterates over a tree data structure.
+
 # Define a class representing a node in a tree
 class TreeNode:
     def __init__(self, value):
@@ -40,4 +41,5 @@ if __name__ == "__main__":
     tree_iterator = TreeIterator(root)
     for value in tree_iterator:
         print(value)
+
 
