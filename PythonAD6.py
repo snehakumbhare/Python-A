@@ -1,4 +1,5 @@
 #Python A* Search Algorithm for Pathfinding
+
 #Write a Python program that implements the A* search algorithm for a pathfinding problem.
 import heapq
 
@@ -86,3 +87,4 @@ if __name__ == "__main__":
     # Perform A* search
     solution = astar_search(start_state, goal_state, actions, transition_model, cost_fn, heuristic_fn)
     print("Solution:", solution)
+
