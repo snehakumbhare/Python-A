@@ -1,4 +1,5 @@
 #Python Bloom Filter implementation
+
 #Write a Python program that implements a Bloom filter for probabilistic data structures.
 import hashlib
 
@@ -45,3 +46,4 @@ print("Red in filter:", bloom_filter.check("Red"))  # Should be True
 print("Green in filter:", bloom_filter.check("Green"))  # Should be True
 print("Orange in filter:", bloom_filter.check("Orange"))  # Should be True
 print("Black in filter:", bloom_filter.check("Black"))  # Should be False (most likely)
+
