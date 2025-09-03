@@ -1,6 +1,7 @@
 #Python Genetic Algorithm for Optimization
 
 #Write a Python program to implement a genetic algorithm for solving optimization problems.
+
 # Import the random module for generating random numbers
 import random
 # Import the numpy module for numerical operations
@@ -118,4 +119,5 @@ def genetic_algorithm():
 best_solution = genetic_algorithm()
 # Print the best solution found
 print("Best solution found:", best_solution)
+
 
