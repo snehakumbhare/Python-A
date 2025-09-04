@@ -1,4 +1,5 @@
 #Real-Time Data Visualization Dashboard with Plotly and Dash
+
 #Write a Python program to build a real-time data visualization dashboard using Plotly and Dash.
 # Import necessary libraries
 
@@ -60,4 +61,5 @@ if __name__ == '__main__':
 #Dash is running on http://127.0.0.1:8050/
 
 # * Serving Flask app 'pythonAD12'
+
  #* Debug mode: on
