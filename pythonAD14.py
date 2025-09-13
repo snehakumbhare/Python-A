@@ -1,4 +1,5 @@
 #Write a Python program to create a tool for generating synthetic data for testing purposes.
+
 #Synthetic Data Generation Tool in Python
 
 # Import necessary libraries
@@ -45,5 +46,6 @@ if __name__ == "__main__":
     data_generator.generate_dates()
     # Save generated data to a CSV file
     data_generator.save_data('synthetic_data.csv')
+
 
 
