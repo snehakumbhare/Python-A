@@ -1,4 +1,5 @@
 #Synthetic Data Generation Tool in Python
+
 # Import necessary libraries
 import pandas as pd
 import numpy as np
@@ -43,3 +44,4 @@ if __name__ == "__main__":
     data_generator.generate_dates()
     # Save generated data to a CSV file
     data_generator.save_data('synthetic_data.csv')
+
