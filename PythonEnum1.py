@@ -10,3 +10,4 @@ class Country(Enum):
     Antarctica = 672
 print('\nMember name: {}'.format(Country.Albania.name))
 print('Member value: {}'.format(Country.Albania.value))
+
