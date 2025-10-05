@@ -12,4 +12,5 @@ class Country(Enum):
     Antarctica = 672
 for data in Country:
     print('{:15} = {}'.format(data.name, data.value))
+
 	
