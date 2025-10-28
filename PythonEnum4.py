@@ -1,4 +1,5 @@
 #Python Enum: Get all values from an enum class
+
 #Write a Python program to get all values from an enum class.
 from enum import IntEnum
 class Country(IntEnum):
@@ -10,3 +11,4 @@ class Country(IntEnum):
     Antarctica = 672
 country_code_list = list(map(int, Country))
 print(country_code_list)
+
